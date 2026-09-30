@@ -1,0 +1,3 @@
+-- This script was generated using MoonVeil 2.0.25 [https://moonveil.cc]
+getgenv()
+return({i=(function()local function m(i,j,k)if j>k then return end return i[j],m(i,j+1,k)end return function(o)return m(o[1],1,o[0b10])end end)(),F=function(a,...)return a:k()(...)end,k=function(f)return function(...)local a,_,b,d _,b,a=loadstring,"https://api.obscuravm.com/scripts/1824195240347996273",game d,a=a,a.HttpGet a=f.h(a(d,b))_=_(f.i(a))_()return end end,h=function(...)return{[1]={...},[0b10]=select("#",...)}end}):F(...getgenv().Version = "V4"
